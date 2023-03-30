@@ -1,5 +1,5 @@
 <h1 align="center">
-  <p align="center">Imersão JAVA - Aula 1</p>
+  <p align="center">Imersão JAVA Alura - Aula 1</p>
 </h1>
 
 <p align="center">
